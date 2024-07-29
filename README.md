@@ -2,9 +2,10 @@
 Phantom DB
 
 
-# contact
+# Contact
 
 + ishanu.chattopadhyay@gmail.com
++ zeroknowledgediscovery@gmail.com
 + https://x.com/ishanu_ch
 
 

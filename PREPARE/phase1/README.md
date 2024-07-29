@@ -10,8 +10,7 @@ We are sharing diagnostic history of 2,000,000 phantom patients (1M phantoms gen
 + Author/Principal Investigator Information
 + Name: Ishanu Chattopadhyay
 + ORCID: https://orcid.org/0000-0001-8339-8162
-+ Institution: University of Chicago
-+ Address: 9515 Brandt Avenue Oak Lawn IL 60453
++ Institution Affliation: University of Chicago
 + Email: zeroknowledgediscovery@gmail.com
 
 ## Date of data collection
