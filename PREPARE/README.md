@@ -2,11 +2,11 @@
 
 # PREPARE Challenge
 
- [PREPARE Challenge Competition Page](https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/).
+[PREPARE Challenge Competition Page](https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/).
 
 # ZED Submission for Phase 1
 
-+ ./phase1
+[Phase 1 Submission Folder](./phase1)
 
 
 ## Overview
