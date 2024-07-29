@@ -4,6 +4,10 @@
 
  [PREPARE Challenge Competition Page](https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/).
 
+# ZED Submission for Phase 1
+
++ ./phase1
+
 
 ## Overview
 The PREPARE Challenge is a competition organized by the National Institutes of Health (NIH) to advance research and development in Alzheimer's Disease and Alzheimer's Disease-Related Dementias (AD/ADRD). The challenge is designed to harness the power of data science and predictive intelligence to create innovative solutions that can help in the early diagnosis, treatment, and management of AD/ADRD.
